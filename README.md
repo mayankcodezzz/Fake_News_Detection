@@ -93,6 +93,8 @@ Here we have build all the classifiers for predicting the fake news detection. T
 Our finally selected and best performing classifier was ```Logistic Regression``` which was then saved on disk with name ```final_model.sav```. Once you close this repository, this model will be copied to user's machine and will be used by prediction.py file to classify the fake news. It takes an news article as input from user then model is used for final classification output that is shown to user along with probability of truth.
 
 Below is the Process Flow of the project:
+
+
 ![ProcessFlow](https://github.com/user-attachments/assets/faac1ce8-0220-4624-9a43-cbafd7c46089)
 
 
@@ -100,10 +102,14 @@ Below is the Process Flow of the project:
 Below is the learning curves for our candidate models. 
 
 **Logistic Regression Classifier**
+
+
 ![LR_LCurve](https://github.com/user-attachments/assets/4fffc680-b0f9-4faf-a0e7-4c6c07ecebc8)
 
 
 **Random Forest Classifier**
+
+
 ![RF_LCurve](https://github.com/user-attachments/assets/cc8db373-ba16-45f0-aa89-349378927d3b)
 
 
