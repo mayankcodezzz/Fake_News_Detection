@@ -95,7 +95,8 @@ Our finally selected and best performing classifier was ```Logistic Regression``
 Below is the Process Flow of the project:
 
 <p align="center">
-  <img width="600" height="750" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/ProcessFlow.PNG">
+  <img width="600" height="750" src="![ProcessFlow](https://github.com/user-attachments/assets/78225464-02ea-4b05-a137-cb3c06251662)
+">
 </p>
 
 ### Performance
