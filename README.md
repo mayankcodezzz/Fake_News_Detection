@@ -95,7 +95,7 @@ Our finally selected and best performing classifier was ```Logistic Regression``
 Below is the Process Flow of the project:
 
 <p align="center">
-  <img width="600" height="750" src="![ProcessFlow](https://github.com/user-attachments/assets/78225464-02ea-4b05-a137-cb3c06251662)
+  <img width="600" height="750" src="![ProcessFlow](https://github.com/user-attachments/assets/d506b23d-c0f3-4064-b927-4c9310043bac)
 ">
 </p>
 
@@ -105,13 +105,15 @@ Below is the learning curves for our candidate models.
 **Logistic Regression Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/LR_LCurve.PNG">
+  <img width="550" height="450" src="![LR_LCurve](https://github.com/user-attachments/assets/66922b0f-0d5d-4500-85b1-c1acdbc0a987)
+">
 </p>
 
 **Random Forest Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/RF_LCurve.png">
+  <img width="550" height="450" src="![RF_LCurve](https://github.com/user-attachments/assets/ef5e70b6-6bc3-4af5-bb96-5f3fe197d95d)
+">
 </p>
 
 ### Next steps
